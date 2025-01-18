@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Note_App.props" />
+</Project>
